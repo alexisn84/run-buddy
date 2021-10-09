@@ -100,6 +100,7 @@ section {
 }
 /* Hero Style End */
 
+/*STEP STYLES START*/
 .section-title {
     font-size: 55px;
     color: #024e76;
@@ -156,7 +157,9 @@ section {
 .secondary-border {
     border-color: #39a6b2;
 }
+/*STEP STYLES END*/
 
+/* TRAINER STYLES START*/
 .trainers {
     text-align: center;
 }
@@ -202,6 +205,47 @@ section {
 
 .text-right {
     text-align: right;
+}
+
+/* REACH OUT STYLES START */
+.contact {
+    text-align: center;
+    background: #024e76;
+}
+
+.contact h2 {
+    color: #fce138;
+}
+
+.contact-info iframe {
+    width: 400px;
+    height: 400px;
+}
+
+.contact div {
+    width: 510px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    margin: 30px 0 0 30px;
+    color: white;
+    
+}
+
+.contact h3 {
+    color: #fce138;
+    font-size: 32px;
+}
+
+.contact p, .contact-info address {
+    margin: 20px 0;
+    line-height: 1.5;
+    font-size: 20px;
+    font-style: normal;
+}
+
+.contact a {
+    color: #fce138;
 }
 
 footer {
