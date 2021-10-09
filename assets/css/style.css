@@ -237,7 +237,7 @@ section {
     font-size: 32px;
 }
 
-.contact p, .contact-info address {
+.contact p, .contact address {
     margin: 20px 0;
     line-height: 1.5;
     font-size: 20px;
