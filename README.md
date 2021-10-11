@@ -12,3 +12,5 @@ https://lernantino.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Alexis El Amrani
+
+### ©️2019 Run Buddy, Inc
