@@ -217,19 +217,17 @@ section {
     color: #fce138;
 }
 
-.contact-info iframe {
+.contact iframe {
     width: 400px;
     height: 400px;
 }
 
 .contact div {
-    width: 510px;
+    width: 410px;
     display: inline-block;
     vertical-align: top;
-    text-align: left;
-    margin: 30px 0 0 30px;
-    color: white;
-    
+    margin: 30px 0 0 60px;
+    color: white;  
 }
 
 .contact h3 {
